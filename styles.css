@@ -66,16 +66,18 @@ body {
   z-index: -2;
 }
 
-footer {
-  position: absolute;
-  bottom: 20px;
-  right: 30px;
-  color: grey;
-}
-
 @keyframes anim {
   100% {
     width: 150px;
     height: 150px;
   }
+}
+
+/* End CSS */
+
+footer {
+  position: absolute;
+  bottom: 20px;
+  right: 30px;
+  color: grey;
 }
